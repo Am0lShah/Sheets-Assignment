@@ -98,4 +98,4 @@ RELIABILITY. Relying solely on the "UNREAD" label is risky. If the script crashe
 3.  **Rate Limiting**: We fetch a maximum of 10 emails per run (`MAX_RESULTS`), which is a respectful limit for the API but might check fewer emails for high-volume inboxes.
 
 ## Author
-[Your Name] - Amol Shah
+Amol Shah
